@@ -43,6 +43,9 @@ A few of my projects...
 <a href="https://github.com/westpa/westpa"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=westpa&repo=westpa" alt="WESTPA" height=100> </a>
 <a href="https://github.com/jdrusso/msm_we"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdrusso&repo=msm_we" alt="msm_we" height=100> </a>
 <a href="https://github.com/jdrusso/SynD"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdrusso&repo=SynD" alt="SynD" height=100> </a>
+<a href="https://github.com/jdrusso/awesome-science"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdrusso&repo=awesome-science" alt="awesome-science" height=100> </a>
+<a href="https://github.com/jdrusso/docker_westpa"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdrusso&repo=docker_westpa" alt="docker_westpa" height=100> </a>
 
 ## Fun
-<a href="https://github.com/jdrusso/SynD"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdrusso&repo=SynD" alt="SynD" height=100> </a>
+<a href="https://github.com/jdrusso/remote_thermostat"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdrusso&repo=remote_thermostat" alt="remote_thermostat" height=100> </a>
+<a href="https://github.com/jdrusso/soil-hygrometer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdrusso&repo=soil-hygrometer" alt="soil-hygrometer" height=100> </a>
