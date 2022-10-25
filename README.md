@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/%F0%9F%94%A7 Editor-PyCharm-green" height="20" alt="Editor: PyCharm"/>
 </p>
 
+<!--
 A few of my projects...
 
 ## Science
@@ -49,3 +50,4 @@ A few of my projects...
 ## Fun
 <a href="https://github.com/jdrusso/remote_thermostat"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdrusso&repo=remote_thermostat" alt="remote_thermostat" height=100> </a>
 <a href="https://github.com/jdrusso/soil-hygrometer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdrusso&repo=soil-hygrometer" alt="soil-hygrometer" height=100> </a>
+-->
