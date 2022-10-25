@@ -15,13 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <p>
+
+<!-- https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b --> 
+
 <!-- <a href="https://www.linkedin.com/in/jd-russo/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a> -->
+
 <a href="https://scholar.google.com/citations?user=AR88J6sAAAAJ&hl=en&oi=ao"><img height="20" src="https://img.shields.io/badge/-Google_Scholar-gray?logo=google-scholar" alt=""/></a>
 <a href="https://www.linkedin.com/in/jd-russo/"><img height="20" src="https://img.shields.io/badge/-LinkedIn-gray?logo=linkedin" alt=""/></a>
 <a href="https://mobile.twitter.com/jdrusso94"><img height="20" src="https://img.shields.io/badge/-Twitter-gray?logo=twitter" alt=""/></a>
+
 <!-- <a href="https://www.linkedin.com/in/jd-russo/"><img height="20" src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt=""/></a> -->
 <!-- <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jdrusso94?style=social" height="20"> -->
+
 </p>
 
 <p>
@@ -38,3 +45,4 @@ A few of my projects...
 <a href="https://github.com/jdrusso/SynD"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdrusso&repo=SynD" alt="SynD" height=100> </a>
 
 ## Fun
+<a href="https://github.com/jdrusso/SynD"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdrusso&repo=SynD" alt="SynD" height=100> </a>
