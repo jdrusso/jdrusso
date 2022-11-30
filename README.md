@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <a href="https://scholar.google.com/citations?user=AR88J6sAAAAJ&hl=en&oi=ao"><img height="20" src="https://img.shields.io/badge/-Google_Scholar-gray?logo=google-scholar" alt=""/></a>
 <a href="https://www.linkedin.com/in/jd-russo/"><img height="20" src="https://img.shields.io/badge/-LinkedIn-gray?logo=linkedin" alt=""/></a>
 <a href="https://mobile.twitter.com/jdrusso94"><img height="20" src="https://img.shields.io/badge/-Twitter-gray?logo=twitter" alt=""/></a>
+<a href="https://jdrusso.dev/posts/"><img height="20" src="https://img.shields.io/badge/Blog-gray?logo=readthedocs&logoColor=white" alt=""/></a>
 
 <!-- <a href="https://www.linkedin.com/in/jd-russo/"><img height="20" src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt=""/></a> -->
 <!-- <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jdrusso94?style=social" height="20"> -->
