@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  <p>
   
 <img src="https://img.shields.io/badge/CPU-4x%20Xeon--E4870-informational?logo=intel" height="20" alt="CPU: 4x Xeon 4870"/>
-<img src="https://img.shields.io/badge/GPU-Nvidia--K10-green?logo=nvidia" height="20" alt="GPU: Nvidia K10"/>
+<img src="https://img.shields.io/badge/GPU-Nvidia K10-76B900?logo=nvidia" height="20" alt="GPU: Nvidia K10"/>
 <img src="https://img.shields.io/badge/Memory-128GB ECC DDR3-brown" height="20" alt=""/>
 </p>
 
