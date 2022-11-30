@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 <!-- <a href="https://www.linkedin.com/in/jd-russo/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a> -->
 
+<h3> Social </h3>
+
 <a href="https://scholar.google.com/citations?user=AR88J6sAAAAJ&hl=en&oi=ao"><img height="20" src="https://img.shields.io/badge/-Google_Scholar-gray?logo=google-scholar" alt=""/></a>
 <a href="https://www.linkedin.com/in/jd-russo/"><img height="20" src="https://img.shields.io/badge/-LinkedIn-gray?logo=linkedin" alt=""/></a>
 <a href="https://mobile.twitter.com/jdrusso94"><img height="20" src="https://img.shields.io/badge/-Twitter-gray?logo=twitter" alt=""/></a>
@@ -32,8 +34,19 @@ Here are some ideas to get you started:
 </p>
 
 <p>
+<h3> Current homelab setup </h3>
+ </p>
+ <p>
   
+<img src="https://img.shields.io/badge/CPU-4x%20Xeon--E4870-informational?logo=intel" height="20" alt="CPU: 4x Xeon 4870"/>
+<img src="https://img.shields.io/badge/GPU-Nvidia--K10-green?logo=nvidia" height="20" alt="GPU: Nvidia K10"/>
+<img src="https://img.shields.io/badge/Memory-128GB ECC DDR3-brown" height="20" alt=""/>
+</p>
+
+<p>
 <img src="https://img.shields.io/badge/%F0%9F%94%A7 Editor-PyCharm-green" height="20" alt="Editor: PyCharm"/>
+  
+<img src="https://img.shields.io/badge/OS-Ubuntu%2020.04-E95420?logo=ubuntu" height="20" alt="OS: Ubuntu 20.04"/>
 </p>
 
 <!--
